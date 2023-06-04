@@ -1,4 +1,4 @@
-FROM python:3.10.11-buster
+FROM python:3.10-alpine
 
 LABEL version="1.1"
 
